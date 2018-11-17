@@ -1,0 +1,1 @@
+# sopt_android_git_seminar
